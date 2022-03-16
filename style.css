@@ -25,7 +25,7 @@ body {
     margin: 0px;
 }
 
-header{
+header {
     min-height: 150px;
     background-image: linear-gradient(to bottom, var(--cor0), var(--cor01), var(--cor03));
     padding: 10px;
