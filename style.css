@@ -30,6 +30,7 @@ header{
     background-image: linear-gradient(to bottom, var(--cor0), var(--cor01), var(--cor03));
     padding: 10px;
     box-shadow: 5px 3px 10px rgba(0, 0, 0, 0.5);
+    margin: auto;
 }
 
 header > h1 {
@@ -43,8 +44,8 @@ header > h1 {
 header > p {
     font-family: var(--fonte0);
     font-size: 1.2em;
+    text-align: center;
     color: rgb(221, 237, 252);
-    max-width: 600px;
     margin: auto;
     padding-bottom: 20px;
     padding-right: 10px;
