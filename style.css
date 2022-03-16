@@ -28,7 +28,9 @@ body {
 header{
     background-image: linear-gradient(to bottom, var(--cor0), var(--cor01), var(--cor03));
     padding: 10px;
-    box-shadow: 5px 3px 10px rgba(0, 0, 0, 0.5)
+    box-shadow: 5px 3px 10px rgba(0, 0, 0, 0.5);
+    max-width: 320px;
+    max-height: 568px;
 }
 
 header > h1 {
